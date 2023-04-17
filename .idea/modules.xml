@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/nodejs_01.iml" filepath="$PROJECT_DIR$/.idea/nodejs_01.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/mastering-git-github.iml" filepath="$PROJECT_DIR$/.idea/mastering-git-github.iml" />
+>>>>>>> 50c25d995d017688b2fba618291ae8fdcbc99a6d
     </modules>
   </component>
 </project>
