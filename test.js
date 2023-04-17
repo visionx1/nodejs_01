@@ -1,3 +1,3 @@
 function test1(){
-collalala
+console.log('aaaa')
 }
