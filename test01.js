@@ -9,3 +9,7 @@ function test2(){
 function test3(){
     console.log("test-");
 }
+
+function test4(){
+    console.log("test04추가-");
+}
